@@ -67,7 +67,7 @@ celtic = {
 	}	
 }
 
-arabic = {
+byzantine = {
 	egyptian_coptic = {
 		graphical_cultures = { arabicgfx muslimgfx }
 		alternate_start = {
