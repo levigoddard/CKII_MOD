@@ -1,5 +1,5 @@
 k_mkemet = {
-	d_levant = {
+	d_goth = {
 		color = { 125 0 67 }
 		color2={ 255 255 255 }
 		

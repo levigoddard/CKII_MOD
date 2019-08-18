@@ -1,4 +1,4 @@
-k_trebizond = {
+k_mkemet = {
 	d_theodoro = {
 		color = { 82 0 125 }
 		color2={ 255 255 255 }
