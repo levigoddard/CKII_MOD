@@ -1,4 +1,4 @@
-k_mkemet = {
+l_mkemet = {
 	d_levant = {
 		color = { 125 0 67 }
 		color2={ 255 255 255 }

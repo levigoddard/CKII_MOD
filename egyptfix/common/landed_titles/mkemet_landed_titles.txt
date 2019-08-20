@@ -1,19 +1,19 @@
-k_mkemet = {
-	d_goth = {
+e_byzantium = {
+	k_mkemet = {
 		color = { 125 0 67 }
 		color2={ 255 255 255 }
 		
 		capital = 764 # Antioch
 		
-		title = "PRINCE"
-		foa = "PRINCE_FOA"
-		title_female "PRINCESS"
-		foa_female = "PRINCESS_FOA"
+		title = "PHAROAH"
+		foa = "PHAROAH_FOA"
+		title_female "PHAROAHA"
+		foa_female = "PHAROAHA_FOA"
 		
-		title_prefix = "PRINCIPALITY"
+		title_prefix = "PHAROATE"
 		
-		religion = orthodox
-		culture = greek
+		religion = egyptian_pagan
+		culture = neo_coptic
 
 		allow = {
 		OR = {
@@ -22,7 +22,7 @@ k_mkemet = {
 		culture = coptic
 		culture = neo_coptic
 		culture = assyrian
-		religion = orthodox
+		religion = neo_coptic
 			}
 		}
 	}
