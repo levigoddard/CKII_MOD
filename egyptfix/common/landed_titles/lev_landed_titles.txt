@@ -1,11 +1,11 @@
-l_mkemet = {
+k_mkemet = {
 	d_levant = {
 		color = { 125 0 67 }
 		color2={ 255 255 255 }
 		
 		capital = 764 # Antioch
 		
-		title = "PRINCE"
+	 	title = "PRINCE"
 		foa = "PRINCE_FOA"
 		title_female "PRINCESS"
 		foa_female = "PRINCESS_FOA"
